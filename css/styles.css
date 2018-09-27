@@ -1,0 +1,115 @@
+/*
+author:bangyan wan;
+filename:styles.css;
+date:september 24,2018;
+*/
+
+header{
+    background-image: url(https://picsum.photos/2000/800/?random);
+    /* background-imgae is used to set a background image for an element*/
+    background-size:cover;
+    /*it is used to specify the size of the background image*/
+    padding:15px; 
+    /*padding is used to generate space around the content*/
+    min-height:16.5rem;
+    /*it is used to difine the minimum height of an element,but if the content is larger than minimum height, then minimum height has no effect*/
+  
+   
+}
+h1{
+    color:hsla(207, 60%, 35%, 1);
+    /*to put color for an element*/
+    font-size:4rem;
+    /*it is used to set the size of the font*/
+    text-align: left;
+    /*for aligning the content such as left, centre, right*/
+     padding:15px;
+    /*padding is used to generate space around the content*/
+       
+}
+h2{
+    font-size:3.8rem;
+    /*it is used to set the size of the font*/
+    color:hsla(207, 60%, 67%, 1);
+    /*to put color for an element*/
+    padding:15px;
+    /*padding is used to generate space around the content*/
+    text-align: left;
+    /*for aligning the content such as left, centre, right*/
+ 
+}
+
+nav{
+    background-color:hsla(207, 60%, 54%, 1);
+    /*it is used to specify the background color of an element*/
+    font-size: 3.5rem;
+    /*it is used to set the size of the font*/
+    word-spacing: 80px;
+    /*it is used to specify the space between words*/
+    padding:15px;
+    /*padding is used to generate space around the content*/
+   
+}
+
+h3{
+    color:hsla(207, 60%, 61%, 1);
+    /*to put color for an element*/
+    text-align:left;
+    /*for aligning the content such as left, centre, right*/
+    font-size:3rem;
+    /*it is used to set the size of the font*/
+    font-family:sans-serif;
+    /*it is used to specify the font of the element*/
+    padding:15px;
+    /*padding is used to generate space around the content*/
+    
+}
+p{
+    font-size: 1.5rem;
+    /*it is used to set the size of the font*/
+    font-family:sans-serif;
+    /*it is used to specify the font of the element*/
+    line-height:1.5; 
+    /*it is used to specify the height of the line*/
+    text-align: left;
+    /*for alining the content such as left, centre, right*/
+    padding:15px;
+    /*padding is used to generate space around the content*/
+    font-weight: lighter;
+    /*it controls the thiness or thickness of the character*/
+    
+        
+}
+h4{
+    color:hsla(207, 60%, 61%, 1);
+    /*to put color for an element*/
+    font-size:1.5rem;
+    /*it is used to set the size of the font*/
+    text-align: left;
+    /*for alining the content such as left, centre, right*/
+    padding:15px;
+    /*padding is used to generate space around the content*/
+    font-family: sans-serif;
+    /*it is used to specify the font of the element*/
+}
+
+ul{
+    font-size:1.2rem;
+    /*it is used to set the size of the font*/
+    font-family:sans-serif;
+    /*it is used to specify the font the of element*/
+    font-weight:100;
+    /*it controls the thiness or thickness of the character*/
+    text-align: left;
+    /*for alining the content such as left, centre, right*/
+    line-height: 1.5;
+    /*it is used to specify the height of the line*/
+    padding:15px;
+    /*padding is used to generate space around the content*/
+    font-family: sans-serif;
+        /*it is used to specify the font of the element*/
+    
+}
+    
+
+
